@@ -1,0 +1,26 @@
+body
+{
+  background-color: black;
+
+}
+.App
+{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#DiceLabel
+{
+color: white;
+}
+h1{
+  color: white
+}
+#Dice
+{
+  background-image: url("./images//dice1.png");
+  background-color: black;
+  background-size:  contain;
+  width: 200px;
+  height: 200px;
+}
